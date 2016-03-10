@@ -1,0 +1,15 @@
+{
+    "name": "rijo/test",
+    "authors": [
+        {
+            "name": "Rijad Saric",
+            "email": "rijad.saric@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Rijad\\": "app"
+    	}
+    }
+}
